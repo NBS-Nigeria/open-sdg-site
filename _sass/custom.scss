@@ -1,11 +1,14 @@
 // Enter any custom Sass in this file.
-// Enter any custom Sass in this file.
 .navbar-brand {
   display: block;
   width: 100%;
   max-width: 2000px;
   padding: 15px;
   height: auto;
+}
+
+#search input {
+  background-color: #ffffffb3;
 }
 
 .site-intro {
