@@ -79,33 +79,53 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
-    content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+  - title: Publications
+    content: >
+
+      [Realignment of the National Statistical System with SDGs, 2020](https://www.nigerianstat.gov.ng/elibrary/read/1241110)
+      
+
+      [SDG Baseline Indicators, 2017](https://www.nigerianstat.gov.ng/elibrary/read/628)
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: More Publications
+    button_link: 'https://www.nigerianstat.gov.ng'
     rule_color: ''
-  - title: Nam vestibulum
-    content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+  - title: External resources
+    content: >
+      [The Global Goals](https://www.globalgoals.org/)
+
+      [UN Department of Economic and Social
+      Affairs](https://sustainabledevelopment.un.org/)
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: ''
+    button_link: ''
     rule_color: ''
 frontpage_goals_grid:
-  title: frontpage.heading_short
-  description: frontpage.instructions_shorter
+  title: Nigeria data for the Sustainable Development Goals indicators
+  description: >-
+    Click on each goal for Nigerian Sustainable Development Goals global
+    indicator data.
+frontpage_heading: ''
+frontpage_instructions: ''
 frontpage_introduction_banner:
-  title: frontpage.intro_title
-  description: frontpage.intro_body
+  title: 17 goals to transform our world
+  description: >-
+    Welcome to the home of Nigeria data for <a href="https://sdgs.un.org/goals">the Sustainable Development Goals (SDGs)</a>
+    – reported by <a href="https://www.nigerianstat.gov.ng/">NBS Nigeria</a>, 
+    Nigeria's National Statistical Office.
+    
+    
+    The Sustainable Development Goals (SDGs) are a universal call to action
+    to end poverty, protect the planet and improve the lives and prospects
+    of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a
+    href="https://sdgs.un.org/2030agenda">2030 Agenda for Sustainable
+    Development</a>.
+    
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
 goals_page:
-  title: general.goals
-  description: frontpage.instructions_shorter
+  title: Nigeria's National Reporting Platform for the Sustainable Development Goals
+  description: Click on the *goals* below to see the most recent reported statistics.
 graph_color_headline: '#004466'
 graph_color_headline_high_contrast: '#55a6e5'
 graph_color_set: accessible
