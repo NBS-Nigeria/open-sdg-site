@@ -167,7 +167,17 @@ languages:
 languages_public: []
 logos: []
 map_layers: 
+  - subfolder: country
+    label: Nigeria
+    min_zoom: 5
+    max_zoom: 10
+    staticBorders: false 
   - subfolder: regions
+    label: Zones
+    min_zoom: 5
+    max_zoom: 10
+    staticBorders: false 
+  - subfolder: state
     label: States
     min_zoom: 5
     max_zoom: 10
