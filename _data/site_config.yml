@@ -166,7 +166,12 @@ languages:
   - es
 languages_public: []
 logos: []
-map_layers: []
+map_layers: 
+  - subfolder: regions
+    label: States
+    min_zoom: 5
+    max_zoom: 10
+    staticBorders: false
 map_options:
   disaggregation_controls: false
   minZoom: 5
