@@ -169,18 +169,18 @@ logos: []
 map_layers: 
   - subfolder: country
     label: Nigeria
-    min_zoom: 4
-    max_zoom: 6
+    min_zoom: 2
+    max_zoom: 4
     staticBorders: true
   - subfolder: regions
     label: Zones
-    min_zoom: 6
-    max_zoom: 8
+    min_zoom: 4
+    max_zoom: 6
     staticBorders: true
   - subfolder: states
     label: States
-    min_zoom: 9
-    max_zoom: 12
+    min_zoom: 6
+    max_zoom: 8
     staticBorders: true
 map_options:
   disaggregation_controls: true
