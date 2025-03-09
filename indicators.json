@@ -59,7 +59,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/1-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-5-2",
@@ -67,7 +67,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/1-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-5-3",
@@ -83,7 +83,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/1-5-4/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-a-1",
@@ -91,7 +91,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/1-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-a-2",
@@ -99,7 +99,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/1-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-b-1",
@@ -107,7 +107,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/1-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
