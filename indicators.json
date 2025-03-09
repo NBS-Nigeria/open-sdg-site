@@ -203,7 +203,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/2-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-a-2",
@@ -211,7 +211,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/2-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-b-1",
@@ -219,7 +219,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/2-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-c-1",
@@ -227,7 +227,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/2-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
