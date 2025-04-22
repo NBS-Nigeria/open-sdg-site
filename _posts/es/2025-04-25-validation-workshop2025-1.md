@@ -4,7 +4,7 @@ title: Test Post 1
 author: SDG Team
 excerpt: "Excerpt translation needed"
 language: es
-permalink: /es/test-post-1/
+permalink: /es/validation-workshop2025-1/
 categories:
   - International
 ---
