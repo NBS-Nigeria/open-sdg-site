@@ -4,7 +4,7 @@ title: Stakeholders Validation Workshop of the 2024 SDGs Progress in Nigeria
 author: SDG Team
 excerpt: "Stakeholders Validation Workshop of the 2024 SDGs Progress in Nigeria: Tracking the Indicators"
 language: en
-permalink: /validation-workshop-1/
+permalink: /validation-workshop2025-1/
 categories:
   - International
 ---
