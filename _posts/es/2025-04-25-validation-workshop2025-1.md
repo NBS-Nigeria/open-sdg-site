@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Test Post 1
+title: Taller de validación de los avances de los ODS 2024 en Nigeria
 author: SDG Team
-excerpt: "Excerpt translation needed"
-language: es
-permalink: /es/validation-workshop2025-1/
+excerpt: "Taller de validación de los avances de los ODS 2024 en Nigeria: seguimiento de los indicadores"
+language: en
+permalink: /validation-workshop2025-1/
 categories:
   - International
 ---
-
-Translation needed.
+Taller de validación de los avances de los ODS 2024 en Nigeria: seguimiento de los indicadores
