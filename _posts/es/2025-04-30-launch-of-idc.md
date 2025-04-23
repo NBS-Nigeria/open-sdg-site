@@ -3,7 +3,7 @@ layout: post
 title: Launch of Nigeria Inclusive Data Charter 
 author: SDG Team
 excerpt: "Stakeholders Validation Workshop on Nigeria’s Voluntary National Review"
-language: en
+language: es
 categories:
   - International
 ---
