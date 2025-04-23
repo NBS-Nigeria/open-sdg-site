@@ -247,7 +247,7 @@ news:
 observation_attributes: []
 progress_status:
   status_heading: ''
-  status_help: ''
+  status_help: '&nbsp;'
   status_types: []
 progressive_web_app:
   enabled: false
