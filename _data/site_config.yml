@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: true
 email_contacts:
-  questions: feedback@nigerianstat.gov.ng
+  questions: anneibrahim@nigerianstat.gov.ng
   suggestions: feedback@nigerianstat.gov.ng
-  functional: feedback@nigerianstat.gov.ng
+  functional: webmaster@nigerianstat.gov.ng
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
