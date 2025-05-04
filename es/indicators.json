@@ -158,6 +158,14 @@
           "status": "complete"
         },
         {
+          "id": "2-2-4",
+          "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/es/2-2-4/",
+          "status": "notstarted"
+        },
+        {
           "id": "2-3-1",
           "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)",
           "description": "",
@@ -731,7 +739,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/6-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-4-2",
@@ -942,6 +950,14 @@
           "status": "complete"
         },
         {
+          "id": "8-9-2",
+          "title": "Employed persons in the tourism industries",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/es/8-9-2/",
+          "status": "notstarted"
+        },
+        {
           "id": "8-10-1",
           "title": "a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos",
           "description": "",
@@ -987,7 +1003,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/9-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-1-2",
@@ -1251,7 +1267,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/11-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-5-2",
@@ -1363,7 +1379,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/12-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "12-4-1",
@@ -1707,7 +1723,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/15-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-c-1",
@@ -1739,7 +1755,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/16-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-1-3",
@@ -1747,7 +1763,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/16-1-3/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-1-4",
@@ -1787,7 +1803,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/16-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-3-2",
@@ -1859,7 +1875,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/16-7-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-7-2",
@@ -1867,7 +1883,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/16-7-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-8-1",
@@ -1955,7 +1971,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/17-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-3-2",
@@ -1987,7 +2003,7 @@
           "description": "",
           "keywords": "",
           "href": "/open-sdg-site/es/17-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-7-1",
