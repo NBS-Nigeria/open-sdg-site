@@ -22,6 +22,8 @@ layout: page
 
 - [What do each of the three tiers mean?](#what-do-each-of-the-three-tiers-mean)
 
+- [When are the SDGs expected to start and end?](#when-are-the-sdgs-expected-to-start-and-end)
+
 ## How often will new data be added to this site?
 We will add data as soon as it has been sourced and checked. This includes new data as well as updates to data we have already published. We will continue to collect data from existing sources where possible.
 
@@ -63,6 +65,9 @@ Each of the SDG indicators are assigned to one (or more) of the following tiers:
  - **Tier 3:** No internationally established methodology or standards are yet available for the indicator, but methodology/standards are being (or will be) developed or tested (As of the 51st session of the UN Statistical Commission, the global indicator framework does not contain any Tier III indicators)
 
 **As of 28 December 2020:** The updated tier classification contains **130 Tier I indicators**, **97 Tier II indicators** and **4 indicators that have multiple tiers** (different components of the indicator are classified into different tiers).
+
+## When are the SDGs expected to start and end?
+SDGs are expected to start on 1st  January 2016 and to be achieved by 31 December 2030. However, some targets are expected to be achieved even ealier than the end of 2030.
 
 For more information, [see the IAEG-SDGs Tier Classification for Global SDG Indicators](https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/)
 
