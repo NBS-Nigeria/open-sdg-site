@@ -22,7 +22,7 @@ layout: page
 
 - [What do each of the three tiers mean?](#what-do-each-of-the-three-tiers-mean)
 
-- [When are the SDGs expected to start and end?](#When-are-the-sdgs-expected-to-start-and-end)
+- [When are the SDGs expected to start and end?](#when-are-the-sdgs-expected-to-start-and-end)
 
 ## How often will new data be added to this site?
 We will add data as soon as it has been sourced and checked. This includes new data as well as updates to data we have already published. We will continue to collect data from existing sources where possible.
